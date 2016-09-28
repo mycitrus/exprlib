@@ -1,7 +1,7 @@
 {
-    "name": "thesoftwarefarm/exprlib",
+    "name": "octanetech/exprlib",
     "keywords": ["math", "expressions"],
-    "homepage": "https://github.com/thesoftwarefarm/exprlib",
+    "homepage": "https://github.com/octanetech/exprlib",
     "description": "An expression parser in PHP",
     "license": "MIT",
     "authors": [
