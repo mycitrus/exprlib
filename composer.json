@@ -4,6 +4,7 @@
     "homepage": "https://github.com/octanetech/exprlib",
     "description": "An expression parser in PHP",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "smassey",
